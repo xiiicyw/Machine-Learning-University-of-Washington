@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/Data Files/BinClass Deployment/.idea/BinClass Deployment.iml" filepath="$USER_HOME$/Documents/Data Files/BinClass Deployment/.idea/BinClass Deployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Capital One data challenge/.idea/Capital One data challange.iml" filepath="$PROJECT_DIR$/../Capital One data challenge/.idea/Capital One data challange.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Data Files/Failure RIBA txns/.idea/Failure RIBA txns.iml" filepath="$USER_HOME$/Documents/Data Files/Failure RIBA txns/.idea/Failure RIBA txns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle Competition/House Prices/.idea/House Prices.iml" filepath="$PROJECT_DIR$/../Kaggle Competition/House Prices/.idea/House Prices.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Data Files/Kernel Density Estimation/.idea/Kernel Density Estimation.iml" filepath="$USER_HOME$/Documents/Data Files/Kernel Density Estimation/.idea/Kernel Density Estimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Machine Learning University of Washington.iml" filepath="$PROJECT_DIR$/.idea/Machine Learning University of Washington.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle Competition/Predicting Red Hat Business Value/.idea/Predicting Red Hat Business Value.iml" filepath="$PROJECT_DIR$/../Kaggle Competition/Predicting Red Hat Business Value/.idea/Predicting Red Hat Business Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kaggle Competition/Titanic - Machine Learning from Disaster/.idea/Titanic - Machine Learning from Disaster.iml" filepath="$PROJECT_DIR$/../Kaggle Competition/Titanic - Machine Learning from Disaster/.idea/Titanic - Machine Learning from Disaster.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Data Files/Visa EU Report/.idea/Visa EU Report.iml" filepath="$USER_HOME$/Documents/Data Files/Visa EU Report/.idea/Visa EU Report.iml" />
+    </modules>
+  </component>
+</project>
